@@ -55,7 +55,7 @@ return
 #4) Create a list named sports. Put three sports into the list. Create
 #   a for loop that prints each sport in the list
 def sports (sport):
-    for  in sport
+    for x in sport
     print(x)
     print ("DONE")
     return
@@ -66,8 +66,8 @@ sports(listOsport)
 #5) Create a for loop that loops through each letter in a string of one of your
 #   favorite songs. Each iteration should print should a letter of the word. 
 def Songs (song):
-    for in song
-    print (x)
+    for x in song
+     print (x)
     print ("DONE")
     return 
 
@@ -81,7 +81,7 @@ songs(listOsong)
 #   loop if it is Avatar.
 
 def movies (movie):
-    for in movie
+    for x in movie
     print(x)
     print("DONE")
     if (x = "Avatar")
